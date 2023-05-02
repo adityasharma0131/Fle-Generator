@@ -9,7 +9,7 @@
 - Python code that generates a user defined folder, puts in your user-defined Html, user-defined CSS and user-defined JS into that folder and also adds a basic format of the code in each language which is always useful.
 
 ![alt tag](https://github.com/adityasharma0131/Fle-Generator/blob/09f9533d02f2d27a7224953f967627e14eafff3c/tren/Screenshot_20221026_113050.png)
-
+![Book logo](https://github.com/adityasharma0131/Fle-Generator/blob/09f9533d02f2d27a7224953f967627e14eafff3c/tren/Screenshot_20221026_113050.png)
 
 - The main purpose to make this project is to minimize the time to create the folder then create different types of files (HTML | CSS | JS) again and again
 
