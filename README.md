@@ -8,7 +8,7 @@
 
 - Python code that generates a user defined folder, puts in your user-defined Html, user-defined CSS and user-defined JS into that folder and also adds a basic format of the code in each language which is always useful.
 
-![Screenshot_20221026_113050.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/787fd99b-e3d5-47f4-9d3f-24470c9def27/Screenshot_20221026_113050.png)
+![alt tag](http://tren/Screenshot_20221026_113050.png)
 
 - The main purpose to make this project is to minimize the time to create the folder then create different types of files (HTML | CSS | JS) again and again
 
